@@ -1,0 +1,1 @@
+# servicenow-import-transform-map
